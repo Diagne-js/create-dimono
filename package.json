@@ -1,0 +1,29 @@
+{
+  "name": "create-dimono",
+  "private": false,
+  "version": "1.0.3",
+  "description": "The official template for creating a dinomo app",
+  "keywords": [
+    "dinomo",
+    "create-dinomo",
+    "dinomo",
+    "template"
+  ],
+  "homepage": "https://github.com/Diagne-js/create-dimono#readme",
+  "bugs": {
+    "url": "https://github.com/Diagne-js/create-dimono/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Diagne-js/create-dimono.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "bin": {
+    "create-dimono": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
